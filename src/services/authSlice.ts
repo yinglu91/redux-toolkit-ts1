@@ -12,7 +12,6 @@ export interface AuthState {
 
 const initialState: AuthState = {
   user: { name: "", email: "" }
-  // user: { name: "Ying", age: 30, email: "Lu" }
 };
 
 
